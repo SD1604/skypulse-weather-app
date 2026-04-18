@@ -2,7 +2,7 @@ import { useState } from "react";
 import { ThemeProvider, createTheme, CssBaseline, Box } from "@mui/material";
 import SearchBox from "./SearchBox.jsx";
 import WeatherCard from "./WeatherCard.jsx";
-import WeatherBackground from "./Weatherbackground.jsx";
+import WeatherBackground from "./WeatherBackground.jsx";
 
 const theme = createTheme({
   palette: {

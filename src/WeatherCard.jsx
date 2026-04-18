@@ -1,6 +1,6 @@
 import { Box, Grid, Divider } from "@mui/material";
-import WeatherIcon from "./Weathericon.jsx";
-import StatTile from "./Stattile.jsx";
+import WeatherIcon from "./WeatherIcon.jsx";
+import StatTile from "./StatTile.jsx";
 
 // MUI SVG icons as inline SVG for stat tiles
 const WindSVG = () => (
