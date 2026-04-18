@@ -78,7 +78,7 @@ src/
 
 ## 🌍 Live Demo
 
-🔗 [skypulse-weather-app.vercel.app](https://skypulse-weather-app.vercel.app)
+🔗 [skypulse-weather-app.vercel.app](https://skypulse-weather-app.vercel.app/)
 
 ## 📄 License
 
